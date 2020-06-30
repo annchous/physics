@@ -5,6 +5,6 @@
   <li><a href = "https://github.com/annchous/physics/blob/master/lab3.01V/lab3.01V.pdf">Task description</a></li>
   <li>Code (Java)</li>
   <li>Code description</li>
-  <li>Input data (txt files)</li>
+  <li><a href = "https://github.com/annchous/physics/tree/master/lab3.01V/data">Input data (txt files)</a></li>
   <li>Output data (jpg files)</li>
 </ul>
