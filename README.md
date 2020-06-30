@@ -4,6 +4,6 @@
 <ul>
   <li>Task description</li>
   <li>Code (Java)</li>
-  <li>Input data (txt files)<li>
-  <li>Output data (jpg files<li>
+  <li>Input data (txt files)</li>
+  <li>Output data (jpg files</li>
 </ul>
