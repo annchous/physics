@@ -15,5 +15,5 @@
   <li><a href = "">Code (Java)</a></li>
   <li>Code description</li>
   <li><a href = "">Input data (txt files)</a></li>
-  <li><a href = "">Output data (jpg files)</a></li>
+  <li><a href = "">Output data (txt files)</a></li>
 </ul>
