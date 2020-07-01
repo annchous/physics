@@ -84,9 +84,9 @@ public class Main {
 
         for (int i = 0; i < data.size(); ++i)
         {
-            double value = (mu0 * I * R * R) / (2) * (
-                    ((1) / (Math.pow(data.get(i).getKey() * data.get(i).getKey() + R * R, (3.0 / 2.0)))) +
-                            ((1) / (Math.pow(Math.pow(data.get(i).getKey() - d, 2.0) + R * R, (3.0 / 2.0)))));
+            double value = ((mu0 * I * R * R) / (2.0)) * (
+                    ((1.0) / (Math.pow(Math.pow(data.get(i).getKey() + d / 2.0, 2.0) + R * R, (3.0 / 2.0)))) +
+                            ((1.0) / (Math.pow(Math.pow(data.get(i).getKey() + d / 2.0 - d, 2.0) + R * R, (3.0 / 2.0)))));
             Pair<Double, Double> pair = new Pair<>(data.get(i).getKey(), value);
             theoreticalValues.add(pair);
         }
