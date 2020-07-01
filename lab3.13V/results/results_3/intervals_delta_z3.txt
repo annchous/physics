@@ -1,0 +1,26 @@
+delta Z intervals
+precision: 1%
+from -0.35 to -0.35 |------------| difference: 0.0
+from -0.3211026369346289 to 0.23131618827562328 |------------| difference: 0.5524188252102522
+from 0.2340716570459872 to 0.2340716570459872 |------------| difference: 0.0
+from 0.2906591439528722 to 0.2906591439528722 |------------| difference: 0.0
+from 0.30444396208285973 to 0.30444396208285973 |------------| difference: 0.0
+from 0.3379304672777287 to 0.35 |------------| difference: 0.012069532722271292
+precision: 2%
+from -0.35 to 0.35 |------------| difference: 0.7
+precision: 3%
+from -0.35 to 0.35 |------------| difference: 0.7
+precision: 4%
+from -0.35 to 0.35 |------------| difference: 0.7
+precision: 5%
+from -0.35 to 0.35 |------------| difference: 0.7
+precision: 6%
+from -0.35 to 0.35 |------------| difference: 0.7
+precision: 7%
+from -0.35 to 0.35 |------------| difference: 0.7
+precision: 8%
+from -0.35 to 0.35 |------------| difference: 0.7
+precision: 9%
+from -0.35 to 0.35 |------------| difference: 0.7
+precision: 10%
+from -0.35 to 0.35 |------------| difference: 0.7
